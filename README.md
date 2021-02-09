@@ -45,7 +45,7 @@ The results of all the tasks can be viewed by running [this](https://colab.resea
 The entire decision tree is too big to be inserted here, so only a part of it is shown here. The entire image can be found [here](https://drive.google.com/file/d/1bJ6ZD5ZDh0Cqs0R23DWBEHPYP6flxLx9/view?usp=sharing).
 
 <p align="center">
- <img height=600px src="./Images/decision-tree.png" alt="dataset"></a>
+ <img height=500px src="./Images/decision-tree.png" alt="dataset"></a>
 </p>
 
 ------------------------------------------
