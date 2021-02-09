@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=200px src="./Images/disease-prediction.jpg" alt="Disease-Prediction"></a>
+ <img height=200px src="./Images/disease-prediction.jpg" alt="Disease-Prediction">
 </p>
 
 <h1 align="center">Disease Prediction from Symptoms</h1>
