@@ -20,7 +20,7 @@
 * The first column shows the disease, the second the number of discharge summaries containing a positive and current mention of the disease, and the associated symptom. 
 
 <p align="center">
- <img height=400px src="./Images/dataset.png" alt="dataset"></a>
+ <img height=400px src="./Images/dataset.png" alt="dataset">
 </p>
 
 ------------------------------------------
