@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=150px src="./Images/disease-prediction.jpg" alt="Disease-Prediction"></a>
+ <img height=200px src="./Images/disease-prediction.jpg" alt="Disease-Prediction"></a>
 </p>
 
 <h1 align="center">Disease Prediction from Symptoms</h1>
@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we use the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithms to predict the disease given the symptoms observed in a person.</h4>
+<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we use the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithm to predict the disease given the symptoms observed in a person.</h4>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img height=300px src="./Images/dataset.jpg" alt="dataset"></a>
+ <img height=300px src="./Images/dataset.png" alt="dataset"></a>
 </p>
 
 ------------------------------------------
