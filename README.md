@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=150px src="./Images/disease-prediction.jpg" alt="Disease-Prediction"></a>
+ <img height=200px src="./Images/disease-prediction.jpg" alt="Disease-Prediction">
 </p>
 
 <h1 align="center">Disease Prediction from Symptoms</h1>
@@ -9,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we use the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithms to predict the disease given the symptoms observed in a person.</h4>
+<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we use the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithm to predict the disease given the symptoms observed in a person.</h4>
 
 </div>
 
@@ -21,23 +20,20 @@
 * The first column shows the disease, the second the number of discharge summaries containing a positive and current mention of the disease, and the associated symptom. 
 
 <p align="center">
-  <a href="" rel="noopener">
- <img height=300px src="./Images/dataset.jpg" alt="dataset"></a>
+ <img height=400px src="./Images/dataset.png" alt="dataset"></a>
 </p>
 
 ------------------------------------------
 ### Tasks performed
 
-- `Data extraction and cleaning` :  Basic cleaning, segmentation of columns and string formatting were performed in excel. 
+- `Data extraction and cleaning` :  Basic cleaning, segmentation of columns and string formatting were performed in Excel. 
 - `Data preprocessing` : Data preprocessing tasks performed include:
   * Spelling mistakes in the names of diseases or symptoms or their codes was rectified
   * The codes which were given to diseases and symptoms were removed as they were irrelevant for our task
   * A cumulative list of all symptoms was made 
   * Each symptom was assigned a Boolean value of 0 or 1 for each disease, according to whether the symptom occurs with the disease or not
 - `Data visuaization` : Built correlation heatmaps for relationship between the symptoms and relationship between the diseases
-- `Model Building` : Used 2 algorithms for this dataset and compared the results to evaluate which one yielded better results.
-  * **Multinomial Naive Bayes Classifier**
-  * **Decision Tree**
+- `Model Building` : Used 2 algorithms for this dataset and compared the results to evaluate which one yielded better results: *Multinomial Naive Bayes Classifier* and *Decision Tree*.
 
 Find the detailed documentation [here](https://gdoc.pub/doc/e/2PACX-1vTJFBAdnpav3HpjfVGGb5LFeO-z_5rThL9oYMNxQqRU7WYUv5fVWxuewughcBu6ww9jfQIlVRDY3rRC).
 
@@ -49,7 +45,6 @@ The results of all the tasks can be viewed by running [this](https://colab.resea
 The entire decision tree is too big to be inserted here, so only a part of it is shown here. The entire image can be found [here](https://drive.google.com/file/d/1bJ6ZD5ZDh0Cqs0R23DWBEHPYP6flxLx9/view?usp=sharing).
 
 <p align="center">
-  <a href="" rel="noopener">
  <img height=500px src="./Images/decision-tree.png" alt="dataset"></a>
 </p>
 
