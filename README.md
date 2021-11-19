@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we use the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithm to predict the disease given the symptoms observed in a person.</h4>
+<h4>A data mining application to predict disease using symptom data i.e. <strong>Prognosis</strong>. To develop this application, we used the <strong>Columbia University dataset</strong> and build a model using both Multinomial Naive-Bayes and Decision Tree Algorithm to predict the disease given the symptoms observed in a person.</h4>
 
 </div>
 
