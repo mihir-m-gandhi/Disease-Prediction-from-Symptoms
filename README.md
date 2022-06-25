@@ -42,7 +42,7 @@ Find the detailed documentation [here](./Disease_Prediction_from_Symptoms.pdf).
 
 The results of all the tasks can be viewed by running [this](./Disease_Prediction_from_Symptoms.ipynb) code in Google Collab or in the detailed documentation above. 
 
-The entire decision tree is too big to be inserted here, so only a part of it is shown here. The entire image can be found [here](./Images/decision-tree-full.png).
+The entire decision tree is too big to be inserted here, so only a part of it is shown here. The entire decision tree can be found [here](./Images/decision-tree-full.png).
 
 <p align="center">
  <img height=500px src="./Images/decision-tree-part.png" alt="dataset">
