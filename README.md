@@ -40,7 +40,7 @@ Find the detailed documentation [here](./Disease_Prediction_from_Symptoms.pdf).
 ------------------------------------------
 ### Results
 
-The results of all the tasks can be viewed by running [this](https://colab.research.google.com/drive/1gS8L3QydlmP3DuNXhJkYdarOscCj7frF) code in Google Collab or in the detailed documentation above. 
+The results of all the tasks can be viewed by running [this](./Disease_Prediction_from_Symptoms.ipynb) code in Google Collab or in the detailed documentation above. 
 
 The entire decision tree is too big to be inserted here, so only a part of it is shown here. The entire image can be found [here](https://drive.google.com/file/d/1bJ6ZD5ZDh0Cqs0R23DWBEHPYP6flxLx9/view?usp=sharing).
 
