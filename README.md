@@ -35,7 +35,7 @@
 - `Data visualization` : Built correlation heatmaps for relationship between the symptoms and relationship between the diseases
 - `Model Building` : Used 2 algorithms for this dataset and compared the results to evaluate which one yielded better results: *Multinomial Naive Bayes Classifier* and *Decision Tree*.
 
-Find the detailed documentation [here](https://gdoc.pub/doc/e/2PACX-1vTJFBAdnpav3HpjfVGGb5LFeO-z_5rThL9oYMNxQqRU7WYUv5fVWxuewughcBu6ww9jfQIlVRDY3rRC).
+Find the detailed documentation [here](./Disease_Prediction_from_Symptoms.pdf).
 
 ------------------------------------------
 ### Results
